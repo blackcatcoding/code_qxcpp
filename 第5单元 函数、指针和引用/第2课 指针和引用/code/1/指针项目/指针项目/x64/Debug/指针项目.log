@@ -1,0 +1,2 @@
+﻿  main.cpp
+D:\MyCode\C++\Demo2021\指针项目\指针项目\main.cpp(14): error C4700: 使用了未初始化的局部变量“p”
